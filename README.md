@@ -3,7 +3,7 @@
 ## Day one
 
 ### Keynotes - Science - Backup the internet
-Rating: XXXX
+Rating: :star: :star: :star: :star:
 
 How to share big data sets with f.e. beaker browser.
 
