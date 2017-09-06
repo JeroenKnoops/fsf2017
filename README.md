@@ -15,12 +15,12 @@ Luca Marchesini ([@kuzzleio](https://twitter.com/kuzzleio)) did a great job by e
 ### Terraform
 Rating: :star: :star:
 
-We love the Terraform frawork of HashiCorp but the talk not as good as we hopped, nothing new. The speaker Anton ([@antonbabenko](https://twitter.com/antonbabenko)) is an expert and topic an also maintains some great [Terraform modules](https://github.com/terraform-community-modules).
+We love the Terraform frawork of HashiCorp but the talk not as good as we hoped, nothing new. The speaker Anton ([@antonbabenko](https://twitter.com/antonbabenko)) is an expert and topic an also maintains some great [Terraform modules](https://github.com/terraform-community-modules).
 
 ### Migrating an existing service to serverless
 Rating: :star: :star:
 
-For us a standard talk by Marcia ([@mavi888uy](https://twitter.com/mavi888uy))about migrating an existing monolitic applicaton to smaller components. We loved all the (angry) birds flying around.
+For us a standard talk by Marcia ([@mavi888uy](https://twitter.com/mavi888uy)) about migrating an existing monolitic applicaton to smaller components. We loved all the (angry) birds flying around.
 
 ### Defending the human network
 Rating: :star: :star: :star: :star:
@@ -40,12 +40,12 @@ Example with analytics service, kafka stream, bus.
 ### How booking.com serves deep learning model predictions
 Rating: :star: :star: :star:
 
-Good explaination about how to train a model and how to deploy them.
+Good explaination by Sahil ([!sahildua2305](https://twitter.com/sahildua2305 )) about how to train a model and how to deploy them.
 
 ### What to do when complex systems fail
-Rating: 0
+Rating:
 
-Indian overhead talk about incident management with IC, SME, and so on.
+Not relevant to our needs.
 
 ## Day Two:
 
@@ -62,7 +62,7 @@ Difference between logs, metric and trace. Good (known) story. We should do some
 ### Ship more, sink less. Changing chaos engineering & Distributed tracing
 Rating: :star: :star:
 
-Nothing new, four year old story. About Chaos Monkey. Chaos GameDay is nice to do once.
+Nothing new, four year old story. About Chaos Monkey. Chaos GameDay is nice to do.
 
 ### Flying Spaghetti monster: Verifying protocols - idris
 Rating: :star: :star: :star: :star:
