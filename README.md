@@ -48,6 +48,7 @@ Good explaination about how to train a model and how to deploy them.
 
 ### What to do when complex systems fail
 Rating: 0 
+
 Indian overhead talk about incident management with IC, SME, and so on.
 
 ## Day Two:
@@ -64,6 +65,7 @@ Difference between logs, metric and trace. Good (known) story. We should do some
 
 ### Ship more, sink less. Changing chaos engineering & Distributed tracing
 Rating: XX
+
 Nothing new, four year old story. About Chaos Monkey. Chaos GameDay is nice to do once.
 
 ### Flying Spaghetti monster: Verifying protocols - idris
@@ -75,10 +77,12 @@ Inspiration for doing more with new languages.
 
 ### Smart grid: How iot fights climate change
 Rating: X
+
 Wrong place. Did not know that the power grid has so much complexity.
 
 ### Beyond patterns: Technological systems and the nature of order
 Rating: XXX
+
 Good to see the that our hipster ship is the same as the problems the manufacturing has already solved.
 
 ### Lighting Talks
