@@ -10,8 +10,7 @@ Karissa McKelvey discussed the topic to share fairly large data sets in the scie
 ### Ehtereum
 Rating: :star: :star: :star: :star:
 
-Good explaination about the differences between blockchain and bitcoin.
-Notary example well explained
+Luca Marchesini (@kuzzleio) did a great job by explanining about blockchain and the differences between ethereum and bitcoin.
 
 ### Terraform
 Rating: :star: :star:
