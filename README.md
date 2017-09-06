@@ -74,22 +74,23 @@ Inspiration for doing more with new languages.
 ### Smart grid: How iot fights climate change
 Rating: :star:
 
-Wrong place. Did not know that the power grid has so much complexity.
+Kelsey Breseman ([@ifoundtheme](https://twitter.com/ifoundtheme)) explains us how complex the eletrical grids works which makes it hard as well to safe for example solar eneregy. It was great to hear the complecity of this relevant topic but unfortunately there was not much relation betwoon the world of of software.
 
 ### Beyond patterns: Technological systems and the nature of order
-Rating: :star: :star: :star:
+Rating: :star: :star: :star: :star:
 
-Good to see the that our hipster ship is the same as the problems the manufacturing has already solved.
+Good to see the that our hipster shit is the same as the problems the manufacturing has already solved. Learn from that! Talk by Jerome Scheuring
 
 ### Lighting Talks
-Rating: :star: :star:
+Rating: :star: :star: :star:
 
-- Docker talk about `docker build` was fun.
+There where quite a lot fo lighting talks. In our opinion: hight quality but too many.
+
+- Docker talk about `docker build` was fun. Docker build takes long, and from now on I can't ignore it anymore. THANKS!!! aka we should fix the layer thing.
 - Fullstack is a zoo. Complexity of our work environment.
-- Execism: Nice code kata kind of thing.
+- Execism: Nice code kata kind of thing. (not a talk, but wearth to mention)
 
 ### Gone in 60 milliseconds: Offensive security in the serverless age
 Rating: :star: :star: :star: :star: :star:
 
-Awesome DDoS attack of slides. A lot of cool stuff. Serverless python with http://zappa.io
-https://rawgit.com/Miserlou/Talks/master/full-stack-barcelona-2017/stack.html
+Awesome DDoS attack of slides by Rich Jones ([@GUNdotIO](https://twitter.com/GUNdotIO)). A lot of cool stuff. Serverless python with [zappa](http://zappa.io) and [slides](https://rawgit.com/Miserlou/Talks/master/full-stack-barcelona-2017/stack.html)
