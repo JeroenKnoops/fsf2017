@@ -15,7 +15,7 @@ Luca Marchesini (@kuzzleio) did a great job by explanining about blockchain and 
 ### Terraform
 Rating: :star: :star:
 
-Default terraform story with not much news.
+We love the Terraform frawork of HashiCorp but the talk not as good as we hopped, nothing new. The speaker Anton (@antonbabenko) is an expert and topic an also maintains some great [Terraform modules](https://github.com/terraform-community-modules).
 
 ### Migrating an existing service to serverless
 Rating: :star: :star:
