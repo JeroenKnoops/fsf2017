@@ -85,6 +85,7 @@ Rating: XX
 
 - Docker talk about `docker build` was fun.
 - Fullstack is a zoo. Complexity of our work environment.
+- Execism: Nice code kata kind of thing.
 
 ### Gone in 60 milliseconds: Offensive security in the serverless age
 Rating: XXXXX
