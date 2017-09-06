@@ -25,12 +25,9 @@ For us a standard talk by Marcia ([@mavi888uy](https://twitter.com/mavi888uy))ab
 ### Defending the human network
 Rating: :star: :star: :star: :star:
 
-Good story about cyber security. About how the mood of a user is one of the weakest link.
-How you can trick people into clicking a bad links. Socially engineering.
-Gebruik de zwaktes van een gebruiker.
+Good story about cyber security by Dr. Jessica Barker ([@drjessicabarker](https://twitter.com/drjessicabarker)). About how the mood of a user is one of the weakest link. How you can trick people into clicking a bad links. Socially engineering and use stress full situation let a user execute an (maybe) unwanted action.
 
-- Think from the point of view of a hacker.
-- Explain people what the conquenses are instead of tell them something to prevent. (inenting)
+Key take aways, learn to think as hacker and focus on the why not on how to enforce / restrict users to do something.
 
 
 ### Rise and the fall of the full stack database
