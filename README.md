@@ -20,6 +20,7 @@ Default terraform story with not much news.
 
 ### Migrating an existing service to serverless
 Rating: XX
+
 Default verhaal - Angry birds
 
 ### Defending the human network
