@@ -5,7 +5,7 @@
 ### Keynotes - Science - Backup the internet
 Rating: :star: :star: :star: :star:
 
-How to share big data sets with f.e. beaker browser.
+Karissa McKelvey discussed the topic to share fairly large data sets in the science community in a secure and distributed way. The [dat project](https://docs.datproject.org/) enables file sharing via peer to peer for example with the beaker browser.
 
 ### Ehtereum
 Rating: :star: :star: :star: :star:
@@ -47,7 +47,7 @@ Rating: :star: :star: :star:
 Good explaination about how to train a model and how to deploy them.
 
 ### What to do when complex systems fail
-Rating: 0 
+Rating: 0
 
 Indian overhead talk about incident management with IC, SME, and so on.
 
@@ -97,5 +97,3 @@ Rating: :star: :star: :star: :star: :star:
 
 Awesome DDoS attack of slides. A lot of cool stuff. Serverless python with http://zappa.io
 https://rawgit.com/Miserlou/Talks/master/full-stack-barcelona-2017/stack.html
-
-
