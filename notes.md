@@ -43,33 +43,53 @@ Example with analytics service, kafka stream, bus.
 ### How booking.com serves deep learning model predictions
 Rating: XXX
 
-Good explaination about how to train a model and how to deploy them with CircleCI.
+Good explaination about how to train a model and how to deploy them.
 
 ### What to do when complex systems fail
-Rating: XX
-Difference between logs, metric and trace. Good (known) story. We should do some things here.
+Rating: 0 
+Indian overhead talk about incident management with IC, SME, and so on.
 
 ## Day Two:
 
-### ioT: An army of devices ready for ddos
-Rating:
+### ioT: An army of devices ready for DDoS
+Rating: XXXX
+
+Good explaination about how IoT device can be used to do a DDoS attack. About port 1900 showing all kinds of information which is sent to victims address. How to block DDoS attacks by putting the ip-address in a grid to search for patterns. About Trump attacks and about anonymous being stupid by setting the evil flag (We're anonymous)
 
 ### How to properly blame things for causing latency. Tracing Zipkin
-Rating:
+Rating: XX
 
-### Ship more, sink less. Changing chaos engineering & Distrubuted tracing
-Rating:
+Difference between logs, metric and trace. Good (known) story. We should do some things here.
+
+### Ship more, sink less. Changing chaos engineering & Distributed tracing
+Rating: XX
+Nothing new, four year old story. About Chaos Monkey. Chaos GameDay is nice to do once.
 
 ### Flying Spaghetti monster: Verifying protocols - idris
-Rating:
+Rating: XXXX
+
+Complexity of systems cause a lot of problems. Idris has a nice feature that Types are also values, so state changes can easialy be checked in compile time.
+
+Inspiration for doing more with new languages.
 
 ### Smart grid: How iot fights climate change
-Rating:
+Rating: X
+Wrong place. Did not know that the power grid has so much complexity.
 
 ### Beyond patterns: Technological systems and the nature of order
-Rating:
+Rating: XXX
+Good to see the that our hipster ship is the same as the problems the manufacturing has already solved.
 
 ### Lighting Talks
-Rating:
-### Gone in 60 milliseconds: Offensive secutrity in the serverless age
+Rating: XX
+
+- Docker talk about `docker build` was fun.
+- Fullstack is a zoo. Complexity of our work environment.
+
+### Gone in 60 milliseconds: Offensive security in the serverless age
+Rating: XXXXX
+
+Awesome DDoS attack of slides. A lot of cool stuff. Serverless python with http://zappa.io
+https://rawgit.com/Miserlou/Talks/master/full-stack-barcelona-2017/stack.html
+
 
