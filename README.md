@@ -52,7 +52,7 @@ Not relevant to our needs.
 ### ioT: An army of devices ready for DDoS
 Rating: :star: :star: :star: :star:
 
-Good explaination about how IoT device can be used to do a DDoS attack. About port 1900 showing all kinds of information which is sent to victims address. How to block DDoS attacks by putting the ip-address in a grid to search for patterns. About Trump attacks and about anonymous being stupid by setting the evil flag (We're anonymous)
+Good talk by John Graham-Cummin ([@jgrahamc](https://twitter.com/jgrahamc)) about how IoT device can be used to do a DDoS attack. About port 1900 showing all kinds of information which is sent to victims address. How to block DDoS attacks by putting the ip-address in a grid to search for patterns. Trump attacks and anonymous being stupid by setting the evil flag (We're anonymous). 
 
 ### How to properly blame things for causing latency. Tracing Zipkin
 Rating: :star: :star:
