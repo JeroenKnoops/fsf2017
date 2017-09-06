@@ -10,17 +10,17 @@ Karissa McKelvey discussed the topic to share fairly large data sets in the scie
 ### Ehtereum
 Rating: :star: :star: :star: :star:
 
-Luca Marchesini (@kuzzleio) did a great job by explanining about blockchain and the differences between ethereum and bitcoin.
+Luca Marchesini ([@kuzzleio](https://twitter.com/kuzzleio)) did a great job by explanining about blockchain and the differences between ethereum and bitcoin.
 
 ### Terraform
 Rating: :star: :star:
 
-We love the Terraform frawork of HashiCorp but the talk not as good as we hopped, nothing new. The speaker Anton (@antonbabenko) is an expert and topic an also maintains some great [Terraform modules](https://github.com/terraform-community-modules).
+We love the Terraform frawork of HashiCorp but the talk not as good as we hopped, nothing new. The speaker Anton ([@antonbabenko](https://twitter.com/antonbabenko)) is an expert and topic an also maintains some great [Terraform modules](https://github.com/terraform-community-modules).
 
 ### Migrating an existing service to serverless
 Rating: :star: :star:
 
-Default verhaal - Angry birds
+For us a standard talk by Marcia ([@mavi888uy](https://twitter.com/mavi888uy))about migrating an existing monolitic applicaton to smaller components. We loved all the (angry) birds flying around.
 
 ### Defending the human network
 Rating: :star: :star: :star: :star:
