@@ -57,12 +57,12 @@ Good talk by John Graham-Cummin ([@jgrahamc](https://twitter.com/jgrahamc)) abou
 ### How to properly blame things for causing latency. Tracing Zipkin
 Rating: :star: :star:
 
-Difference between logs, metric and trace. Good (known) story. We should do some things here.
+Difference between logs, metric and trace. Good (known) story by Adrian Cole ([@adrianfcole](https://twitter.com/adrianfcole)).
 
 ### Ship more, sink less. Changing chaos engineering & Distributed tracing
 Rating: :star: :star:
 
-Nothing new, four year old story. About Chaos Monkey. Chaos GameDay is nice to do.
+The story about testing in real live situations is not new, good te remember the importance to be prepared for failure. For not much new things in this talk since we here the chaos monkeys stories new for a couple of years. But we will plan our Chaos GameDay soon. Thanks to Aish ([@aishrajdahal](https://twitter.com/aishrajdahal))
 
 ### Flying Spaghetti monster: Verifying protocols - idris
 Rating: :star: :star: :star: :star:
