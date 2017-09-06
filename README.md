@@ -1,11 +1,18 @@
 # Full stack fest 2017
 
+This week we (Jeroen and Niek) enjoyining Full Stack Fest 2017 Barcelona,
+a week-long full stack development conference with a focus on solving current problems with new & inspiring perspectives.
+
+In this quite short blog we just summerizing briefly the talks and our opinion about the talks and / or the subject.
+
+The first two days are more backend focuest, the last two days have a frontend focus.
+
 ## Day one
 
 ### Keynotes - Science - Backup the internet
 Rating: :star: :star: :star: :star:
 
-Karissa McKelvey discussed the topic to share fairly large data sets in the science community in a secure and distributed way. The [dat project](https://docs.datproject.org/) enables file sharing via peer to peer for example with the beaker browser.
+Karissa McKelvey ([@ihid](https://twitter.com/ihid)) discussed the topic to share fairly large data sets in the science community in a secure and distributed way. The [dat project](https://docs.datproject.org/) enables file sharing via peer to peer for example with the beaker browser.
 
 ### Ehtereum
 Rating: :star: :star: :star: :star:
@@ -93,4 +100,4 @@ There where quite a lot fo lighting talks. In our opinion: hight quality but too
 ### Gone in 60 milliseconds: Offensive security in the serverless age
 Rating: :star: :star: :star: :star: :star:
 
-Awesome DDoS attack of slides by Rich Jones ([@GUNdotIO](https://twitter.com/GUNdotIO)). A lot of cool stuff. Serverless python with [zappa](http://zappa.io) and [slides](https://rawgit.com/Miserlou/Talks/master/full-stack-barcelona-2017/stack.html)
+Awesome DDoS attack of slides by Rich Jones ([@GUNdotIO](https://twitter.com/GUNdotIO)). A lot of cool stuff. A very usefull and insight talk about how unsecure you serverless application can be. Serverless python with [zappa](http://zappa.io) and [slides](https://rawgit.com/Miserlou/Talks/master/full-stack-barcelona-2017/stack.html)
