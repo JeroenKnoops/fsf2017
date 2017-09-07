@@ -1,28 +1,28 @@
-# Full stack fest 2017
+# Full Stack Fest 2017
 
-This week we (Jeroen and Niek) enjoyining Full Stack Fest 2017 Barcelona,
+This week we (Jeroen and Niek) enjoyining [Full Stack Fest 2017 Barcelona](https://2017.fullstackfest.com/).
 a week-long full stack development conference with a focus on solving current problems with new & inspiring perspectives.
 
 In this quite short blog we just summerizing briefly the talks and our opinion about the talks and / or the subject.
 
-The first two days are more backend focuest, the last two days have a frontend focus.
+The first two days are more backend focussed, the last two days have a frontend focus.
 
 ## Day one
 
 ### Keynotes - Science - Backup the internet
 Rating: :star: :star: :star: :star:
 
-Karissa McKelvey ([@ihid](https://twitter.com/ihid)) discussed the topic to share fairly large data sets in the science community in a secure and distributed way. The [dat project](https://docs.datproject.org/) enables file sharing via peer to peer for example with the beaker browser.
+Karissa McKelvey ([@okdistribute](https://twitter.com/okdistribute)) discussed the topic to share fairly large data sets in the science community in a secure and distributed way. The [dat project](https://docs.datproject.org/) enables file sharing via peer to peer for example with the beaker browser.
 
-### Ehtereum
+### Ehtereum, aeternity and the distributed wonders
 Rating: :star: :star: :star: :star:
 
-Luca Marchesini ([@kuzzleio](https://twitter.com/kuzzleio)) did a great job by explanining about blockchain and the differences between ethereum and bitcoin.
+Luca Marchesini ([@kuzzleio](https://twitter.com/kuzzleio)) did a great job by explanining about blockchain and the differences between ethereum and bitcoin. Blockchain; the system where playing by the rules is more profitable than cheating.
 
-### Terraform
+### Terraform in your delivery pipeline
 Rating: :star: :star:
 
-We love the Terraform frawork of HashiCorp but the talk not as good as we hoped, nothing new. The speaker Anton ([@antonbabenko](https://twitter.com/antonbabenko)) is an expert and topic an also maintains some great [Terraform modules](https://github.com/terraform-community-modules).
+We love the Terraform frawork of HashiCorp but the talk not as good as we hoped, nothing new. The speaker Anton ([@antonbabenko](https://twitter.com/antonbabenko)) is an expert on the topic and also maintains some great [Terraform modules](https://github.com/terraform-community-modules).
 
 ### Migrating an existing service to serverless
 Rating: :star: :star:
@@ -42,7 +42,7 @@ Rating: :star: :star: :star: :star:
 
 Comparison with the army knife. Don't be afraid of new technologies.
 One tool for everything is not going to work.
-Example with analytics service, kafka stream, bus.
+Example with analytics service, kafka stream, bus. Frank Lyaruu ([@lyaruu](https://twitter.com/lyaruu) did a great job!
 
 ### How booking.com serves deep learning model predictions
 Rating: :star: :star: :star:
@@ -56,12 +56,12 @@ Not relevant to our needs.
 
 ## Day Two:
 
-### ioT: An army of devices ready for DDoS
+### The internet of things: An army of devices ready for DDoS
 Rating: :star: :star: :star: :star:
 
-Good talk by John Graham-Cummin ([@jgrahamc](https://twitter.com/jgrahamc)) about how IoT device can be used to do a DDoS attack. About port 1900 showing all kinds of information which is sent to victims address. How to block DDoS attacks by putting the ip-address in a grid to search for patterns. Trump attacks and anonymous being stupid by setting the evil flag (We're anonymous).
+Good talk by John Graham-Cummin ([@jgrahamc](https://twitter.com/jgrahamc)) about how IoT device can be used to do a DDoS attack. About port 1900 showing all kinds of information which is sent to victims address. How to block DDoS attacks by putting the ip-address in a grid to search for patterns. Talked about Trump attacks and anonymous being stupid by setting the evil flag (We're anonymous).
 
-### How to properly blame things for causing latency. Tracing Zipkin
+### How to properly blame things for causing latency: An introduction to distributed tracing and Zipkin 
 Rating: :star: :star:
 
 Difference between logs, metric and trace. Good (known) story by Adrian Cole ([@adrianfcole](https://twitter.com/adrianfcole)).
@@ -71,12 +71,12 @@ Rating: :star: :star:
 
 The story about testing in real live situations is not new, good te remember the importance to be prepared for failure. For not much new things in this talk since we here the chaos monkeys stories new for a couple of years. But we will plan our Chaos GameDay soon. Thanks to Aish ([@aishrajdahal](https://twitter.com/aishrajdahal))
 
-### Flying Spaghetti monster: Verifying protocols - idris
+### Flying Spaghetti monster: Verifying protocols with types and finite-state machines
 Rating: :star: :star: :star: :star:
 
-Complexity of systems cause a lot of problems. Idris has a nice feature that Types are also values, so state changes can easialy be checked in compile time.
+Complexity of systems cause a lot of problems. `Idris` has a nice feature that Types are also values, so state changes can easialy be checked in compile time. `talk.applaud()` should only run after `talk.give()` and Idris has a way to check this easily during compile time.
 
-Inspiration for doing more with new languages.
+Inspiration for doing more with new languages. Chris Ford [@ctford](https://twitter.com/ctford), thanks!
 
 ### Smart grid: How iot fights climate change
 Rating: :star:
@@ -95,7 +95,7 @@ There where quite a lot fo lighting talks. In our opinion: hight quality but too
 
 - Docker talk about `docker build` was fun. Docker build takes long, and from now on I can't ignore it anymore. THANKS!!! aka we should fix the layer thing.
 - Fullstack is a zoo. Complexity of our work environment.
-- Execism: Nice code kata kind of thing. (not a talk, but wearth to mention)
+- Execism.ip: Nice code kata kind of thing. (not a talk, but worth to mention)
 
 ### Gone in 60 milliseconds: Offensive security in the serverless age
 Rating: :star: :star: :star: :star: :star:
