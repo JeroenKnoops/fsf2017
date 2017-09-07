@@ -13,5 +13,9 @@ Jenn Schiffer ([@jennschiffer](https://twitter.com/jennschiffer)) showed how to 
 
 
 ### SVG
-Rating :star: :star: :star: :star:
-Awesome what you can do with SVG 
+Rating: :star: :star: :star: :star:
+Awesome what you can do with SVG
+
+
+### Using react native + clojurescript to launch ios/android apps to 1m users
+Rating:
