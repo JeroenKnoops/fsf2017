@@ -1,6 +1,6 @@
 # Full Stack Fest 2017
 
-This week we (Jeroen and Niek) enjoyining [Full Stack Fest 2017 Barcelona](https://2017.fullstackfest.com/).
+This week we (Jeroen and Niek) enjoyining [Full Stack Fest 2017 Barcelona](https://2017.fullstackfest.com/),
 a week-long full stack development conference with a focus on solving current problems with new & inspiring perspectives.
 
 In this quite short blog we just summerizing briefly the talks and our opinion about the talks and / or the subject.
@@ -22,7 +22,7 @@ Luca Marchesini ([@kuzzleio](https://twitter.com/kuzzleio)) did a great job by e
 ### Terraform in your delivery pipeline
 Rating: :star: :star:
 
-We love the Terraform frawork of HashiCorp but the talk not as good as we hoped, nothing new. The speaker Anton ([@antonbabenko](https://twitter.com/antonbabenko)) is an expert on the topic and also maintains some great [Terraform modules](https://github.com/terraform-community-modules).
+We love the Terraform framework of HashiCorp but the talk not as good as we hoped, nothing new. The speaker Anton ([@antonbabenko](https://twitter.com/antonbabenko)) is an expert on the topic and also maintains some great [Terraform modules](https://github.com/terraform-community-modules).
 
 ### Migrating an existing service to serverless
 Rating: :star: :star:
