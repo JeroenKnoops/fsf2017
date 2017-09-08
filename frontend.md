@@ -1,3 +1,7 @@
+# Full Stack Fest 2017 - Frontend part
+
+## Day three
+
 ### Keynote
 Rating: :star: :star: :star:
 
@@ -45,8 +49,58 @@ Rating: :star:
 
 Simular story as SVG, but limited to `React` and `WebGL`. The power of React's state management is again shown.
 
+---
 
-## Day two:
+## Day five
 
-### Lighting talks
-- 
+### Bringing back the 1990s: The revenge of javascript stylesheets
+Rating: :star: :star: :star:
+
+Steve Kinney ([@stevekinney](https://twitter.com/stevekinney)) did a lot of work in getting the Javascript Stylesheets, a technology only working in 1996 in Netscape 4) to work in 2017. In the beginning of the internet, people were debating about the split of concern regarding content and layout. One of the proposals was Javascript Stylesheets. Netscape 4 was the only browser capable of this feature. Steve showed us how we can do some really neat stuff in 1996 technology. A lot of this, we now take for granted, but we have to keep in mind that this was 1996. A lot of simularities with SASS, LESS, but also REACT like structures with the [ECMA E4X for XML proposal](https://en.wikipedia.org/wiki/ECMAScript_for_XML). Conclusion: We still can learn from the past. Although some good initiatives take 20 years to become meanstream.
+
+### Rendering performance from the ground up
+Rating: :star: :star: :star:
+
+Good presentation about how we can improve the performance a lot by using the GPU instead of CPU. A good explaination what the differences are between a CPU and GPU. Try to use translate and shaders because they don't require repaintings. Thanks Martin Splitt ([@g33konaut](https://twitter.com/g33konaut))!
+
+### Web based virtual reality
+Rating: :star: :star: :star:
+
+Shagufta Gurmukhdas ([@shaguftamethwan](https://twitter.com/shaguftamethwan)) give a good talk ok the Web based virtual reality. Starting WebVR with WebGL is very hard. She showed us [A-Frame](https://aframe.io). A-Frame was already mentioned three times in FSF, so we were already very curious about it. You can easily start your own VR world with this framework. It uses GPU under the hood and you can use one of your favourite webframeworks (vueJS, React, and so on) to change properties of the 3D models. Very impressive. With this tool, even the most suburn backenders, (we) can start with VR.
+
+### Exploring the world of decentralized networks with webRTC
+Rating: :star: :star:
+
+Nikita Baksalyar ([@nbaksalyar](https://twitter.com/nbaksalyar)) started his talk with some technical issues, but he recovered quickly from that. Nikita tought us about how the internet can truly be implemented the way it was supposed to be implemented. Decentralised! Now-a-days we're using a lot of things which are ment to be decentralised in a centralised way. Git and the internet are a nice examples of that. Serving the web, securely and encrypted, with webRTC through all client devices will make it imposible to censor the internet by governments. During the Q&A a question come up on what to do with unwanted content. The response of Nikita was amazing. We should educate people that they don't want to see unwanted content instead of putting the responsibility of this on technology.
+
+### Developing for the next billion
+Rating: :star: :star: :star:
+
+Look to your target group. Keep in mind that your apps might not be used by the people you've targetted on. Natalie Pis ([@nataliepis](https://twitter.com/nataliepis)) showed some examples from Kenya. What apps are used and why. The delivery of apps can be very different from ours. The way payments are done also.
+Nice reference to [Fun with Flags](https://www.youtube.com/watch?v=hjzRbgxZXz8)
+
+### Progressive web apps and the internet of things
+Rating: :star: :star:
+
+A story of with amongst other libraries, the `johnny-five` library. Today it's easy to communicate with all kind of device with `nodeJS`.
+Well done, Luis Montes ([@monteslu](https://twitter.com/monteslu)) 
+
+### Lightning talks
+
+1. PAKO: zlib for uploads in js. For uploading large files. :) NICE. @bombasarkadian
+2. DevTools in Firefox: Alex Lakatos @lakatos88;  BASIC
+3. Internet for Everyone. Tom Enden en Liran Kurtz. Accessible. GOOD
+4. Marek - ProRouter.js - Router.maniak.pro - No idea what this is all about.
+5. Kirill Pimenov - Rust! Go write to Rust and go back to your own language and you will be beter. Awesome!
+6. Raj - iOS Event Communication without internet, API and no loss of data. Way to fast. OMG... Peer to Peer connectivity with iPhone through Bonjour protocol
+7. Paulo -  Functional Programming: Elixir and Phoenix. I love Phoenix! https://paulodiniz.github.io/flappy-bird
+8. FSF designer. Uses emoiji as classes. Awesome way of keeping the names short and compact. Really high quality frontend work. See http://2017.fullstackfest.com and Inspect the code!
+
+### Making a lot of things
+Rating: :star: :star: :star:
+
+Ben Foxall ([@benjaminbenben](https://twitter.com/benjaminbenben)) gave us two talks for the price of one!
+[https://cojs.co](https://cojs.co) is collaborate platform were people can co-create software. With blocks you can split the code. Adding a ! behind the url will fork the code. Other users can continue on the code in their own context, but with shared code. Awesome.
+
+The second talk was about Microhacks. He explained how you should constrain your experiments to make them work. Plan your goal, not your work. Start it and finish it.
+
