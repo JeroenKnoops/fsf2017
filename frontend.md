@@ -19,13 +19,13 @@ Absolutely awesome to see the future already working in this talk by Sam Richard
 Currently only available in Chrome Canary and the definition of unstable, but ooooh so beautiful.
 https://snugug.github.io/magic-tricks-with-houdini/#/0/0
 
-### AST
+### Master the art of the ast (and take control of your js)
 Rating: :star: :star: :star:
 
 To understand most JS libraries you only need to know two things. AST and the visitor pattern. With this knowledge you can easily add ESLint, create Babel plugins or add jscodeshift refactor modules.
 A great tool to help with AST is https://astexplorer.net
 
-### SVG
+### Svg can do that?!
 Rating: :star: :star: :star: :star: :star:
 
 Awesome what you can do with SVG. This girl really knows her stuff. SVG is supported by all browsers including Opera Mini! Good integration with VueJS, react and other modern frameworks is possible. Lots of examples of really beautiful animations all working for all types of devices. Size does matter for images and animations. Normally it will result in ugly things, but with SVG this is absolutely not the case.
@@ -36,7 +36,7 @@ Rating: :star: :star:
 
 A long intro to `react native`, which is most likely not necessary on this conference. A nice twist with `closureScript`. The code looks very clean. It is possible to create apps for both iOS and Android with a 99% simular codebase. The crashlogs of apps created with closurescript and reactnative are unfortunately almost not readible. This set of tools is also great to use in combination with `codepush`. Now we can update the app on the fly without bothering appstores.
 
-### Mars
+### Blasting react into space: building fluid, beautiful interfaces with react and webgl (and other exotic explorations)
 Rating: :star: :star: :star: :star:
 
 A good talk on how all the new technologies can help us in the future when live is possible on Mars.
@@ -44,7 +44,7 @@ Using: `HTTP/2`, `ServiceWorkers`, `LocalStorage`, `Bittorent + git`, `IPFS`, `b
 "Tomorrow's problems === Today's problems but bigger."
 Last year a simular talk was told on FSF, but it's good to see that the technologies mentioned then are now in a much further state. Great talk and good choice from the organiser of this beautiful conference.
 
-### WebGL
+### Bringing back the 1990s: the revenge of javascript stylesheets
 Rating: :star:
 
 Simular story as SVG, but limited to `React` and `WebGL`. The power of React's state management is again shown.
@@ -83,7 +83,7 @@ Nice reference to [Fun with Flags](https://www.youtube.com/watch?v=hjzRbgxZXz8)
 Rating: :star: :star:
 
 A story of with amongst other libraries, the `johnny-five` library. Today it's easy to communicate with all kind of device with `nodeJS`.
-Well done, Luis Montes ([@monteslu](https://twitter.com/monteslu)) 
+Well done, Luis Montes ([@monteslu](https://twitter.com/monteslu))
 
 ### Lightning talks
 
@@ -103,4 +103,3 @@ Ben Foxall ([@benjaminbenben](https://twitter.com/benjaminbenben)) gave us two t
 [https://cojs.co](https://cojs.co) is collaborate platform were people can co-create software. With blocks you can split the code. Adding a ! behind the url will fork the code. Other users can continue on the code in their own context, but with shared code. Awesome.
 
 The second talk was about Microhacks. He explained how you should constrain your experiments to make them work. Plan your goal, not your work. Start it and finish it.
-
