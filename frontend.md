@@ -8,10 +8,10 @@ Rating: :star: :star: :star: :star:
 
 Service Workers by Houssein Djireden ([@hdjirdeh](https://twitter.com/hdjirdeh)) are stable and most serious browsers support them. SWs are a big help in improving the experience for the user. `Workbox-cli` is a great for configuring your app to cache usefull stuff only. Don't cache too much. `FoamTree` and `webpack-bundle-analytics` show a good overview what to cache. Split up your js, with http/2, we do not need one big js file. React has good SW support.
 
-### Houdini css
+### Magic tricks with css houdini
 Rating: :star: :star: :star: :star:
 
-Absolutely awesome to see the future already working in this talk by Sam Richard ([@Snugug](https://twitter.com/Snugug)). A lot of visual stuff is currently blocking the main JS thread. With Houdini CSS a lot of css stuff can be handle on Process Workers. 'Much like Service Workers are a low-level JavaScript API for the browser's cache Houdini introduces low-level JavaScript APIs for the browser's render engine'.
+Absolutely awesome to see the future already working in this talk by Sam Richard ([@Snugug](https://twitter.com/Snugug)). A lot of visual stuff is currently blocking the main JS thread. With Houdini CSS a lot of css stuff can be handle on Worklets. 'Much like Service Workers are a low-level JavaScript API for the browser's cache Houdini introduces low-level JavaScript APIs for the browser's render engine'.
 Currently only available in Chrome Canary and the definition of unstable, but ooooh so beautiful.
 https://snugug.github.io/magic-tricks-with-houdini/#/0/0
 
@@ -44,3 +44,9 @@ Last year a simular talk was told on FSF, but it's good to see that the technolo
 Rating: :star:
 
 Simular story as SVG, but limited to `React` and `WebGL`. The power of React's state management is again shown.
+
+
+## Day two:
+
+### Lighting talks
+- 
